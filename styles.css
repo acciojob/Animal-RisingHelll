@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+
+main{
+	background-color: gray;	
+	text-align: center;
+	color: white;
+}
+
+img{
+	border-radius: 15px;
+	margin: 5px;
+	width: 150px
+}
